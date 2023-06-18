@@ -1,0 +1,3 @@
+* fonts are taken from google fonts (links of preconnect and other)
+* Icons are taken from fontawesome
+    -first take the cnd link and then icons and other of only that version
